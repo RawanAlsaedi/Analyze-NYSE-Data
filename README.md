@@ -1,7 +1,7 @@
 # Analyze NYSE Data
 
 
-![image](https://storage.googleapis.com/kaggle-datasets-images/854/1560/127b0b8c8b15b9eaa8a0c3f3e49ced0d/dataset-cover.jpg)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_-qi29t6vOsGWtwT4ulSnhraG0z9jFxGog&usqp=CAU)
 
 ### Introduction
 
