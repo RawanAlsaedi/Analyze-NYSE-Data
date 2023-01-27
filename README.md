@@ -1,7 +1,7 @@
 # Analyze NYSE Data
 
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_-qi29t6vOsGWtwT4ulSnhraG0z9jFxGog&usqp=CAU)
+![image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUD3Cm5PeTjY/v1/1200x-1.jpg)
 
 ### Introduction
 
