@@ -19,7 +19,7 @@ A forecast financial metrics dashboard has been made within the Income Statement
 
 - Years: Number of years for which data is provided
 
-####- Period ending
+- Period ending
 
 - Total revenue
 
