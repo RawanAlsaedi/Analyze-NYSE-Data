@@ -1,7 +1,7 @@
 # Analyze NYSE Data
 
 
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUD3Cm5PeTjY/v1/1200x-1.jpg" width=70% height=50%>
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUD3Cm5PeTjY/v1/1200x-1.jpg" width=70% height=70%>
 
 ### Introduction
 
