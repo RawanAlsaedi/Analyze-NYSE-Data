@@ -1,7 +1,7 @@
 # Analyze NYSE Data
 
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2022-02-15%2Fnyse-wants-to-be-the-marketplace-for-nfts-just-like-with-stocks&psig=AOvVaw10nKVRFiFuCdC6oj1_5LsJ&ust=1674942394888000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMj14enc6PwCFQAAAAAdAAAAABAF)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5rxt1fyZMaKvoq0LQUXq3r8kTSNfyMr5yw&usqp=CAU)
 
 ### Introduction
 
