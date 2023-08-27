@@ -13,9 +13,13 @@ In this project, I worked with New York Stock Exchange (NYSE) dataset that conta
 The file contain five sheets:
 
 The orignal NYSE dataset
+
 Pivot Table
+
 Summary Statistics
+
 Profit and Loss Statement
+
 Forecasting Scenarios
 
 
