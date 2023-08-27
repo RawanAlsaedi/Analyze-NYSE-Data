@@ -1,9 +1,6 @@
 # Analyze NYSE Data
 
 
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUD3Cm5PeTjY/v1/1200x-1.jpg" width=50% height=50%>
-
-### Introduction
 
 In this project, I worked with New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. This dataset is available on [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse). 
 Since the dataset is too big, I created a smaller subset of the data.
