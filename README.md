@@ -24,4 +24,4 @@ The file contain five sheets:
 
 
 ## [A PDF report or / PPT presentation :](https://github.com/RawanAlsaedi/Analyze-NYSE-Data/blob/main/Analyze%20NYSE%20Data.pdf)
-Contain data viualization charts and summary statistics about the data .
+Contain data visualization charts and summary statistics about the data.
