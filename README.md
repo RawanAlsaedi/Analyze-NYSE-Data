@@ -1,38 +1,24 @@
 # Analyze NYSE Data
-
-
-
 In this project, I worked with New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. This dataset is available on [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse). 
 Since the dataset is too big, I created a smaller subset of the data.
 
-### Project Description
-
-I used Excel spreadsheet to analyze and summarize the data using statistics and data visualizations. I also designed a dashboard that calculates the financial metrics and auto populates the income statement for each company using data validation and advanced lookup tools within Excel. 
-A forecast financial metrics dashboard has been made within the Income Statement, based on three scenarios with distinct assumptions for a company of my choice from the NYSE dataset.
-
-### Attribute Information for the NYSE dataset
-
-- Ticker symbol: Stock symbol
-
-- Years: Number of years for which data is provided
-
-- Period ending
-
-- Total revenue
-
-- Cost of goods sold
-
-- Sales, General, and Administrative expenses
-
-- Research and Development expenses
-
-- Other Operating expense items
-
-- Global Industry Classification Standard (GICS) Sector: The industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL is categorized under Industrials.)
-
-- GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of the "Airlines" industry.)
+# The main parts:
+-  Complete your own data analysis and create a presentation to 
+   share your findings.
+-  Develop a dashboard for a Profit and Loss Statement.
+-  Create a Financial Forecasting Model using three scenarios. 
 
 
-### Tools Used 
 
-You may use any spreadsheet application you like. This includes Google Sheets, Microsoft Excel, etc.
+## [Excel file:](https://github.com/RawanAlsaedi/Analyze-NYSE-Data/blob/main/Analyze%20NYSE%20Data.xlsx) 
+The file contain five sheets:
+
+The orignal NYSE dataset
+Pivot Table
+Summary Statistics
+Profit and Loss Statement
+Forecasting Scenarios
+
+
+## [A PDF report or / PPT presentation :](https://github.com/RawanAlsaedi/Analyze-NYSE-Data/blob/main/Analyze%20NYSE%20Data.pdf)
+Contain data viualization charts and summary statistics about the data .
