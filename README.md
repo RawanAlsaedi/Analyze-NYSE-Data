@@ -1,6 +1,5 @@
 # Analyze NYSE Data
-In this project, I worked with New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. This dataset is available on [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse).Since the dataset is too big, I created a smaller subset of the data. 
-
+In this project, I worked with New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. This dataset is available on [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse).
 
 # The main parts:
 -  Complete your own data analysis and create a presentation to 
