@@ -12,15 +12,15 @@ In this project, I worked with New York Stock Exchange (NYSE) dataset that conta
 ## [Excel file:](https://github.com/RawanAlsaedi/Analyze-NYSE-Data/blob/main/Analyze%20NYSE%20Data.xlsx) 
 The file contain five sheets:
 
-The orignal NYSE dataset
+-The orignal NYSE dataset
 
-Pivot Table
+-Pivot Table
 
-Summary Statistics
+-Summary Statistics
 
-Profit and Loss Statement
+-Profit and Loss Statement
 
-Forecasting Scenarios
+-Forecasting Scenarios
 
 
 ## [A PDF report or / PPT presentation :](https://github.com/RawanAlsaedi/Analyze-NYSE-Data/blob/main/Analyze%20NYSE%20Data.pdf)
